@@ -1,0 +1,33 @@
+---0
+10
+Times mean: 0.001800 std: 0.000600
+nll test: 11.691091
+
+Times mean: 0.003151 std: 0.001096
+nll test: 11.562680
+
+Times mean: 0.004051 std: 0.001012
+nll test: 11.467222
+
+Times mean: 0.006312 std: 0.001870
+nll test: 11.420252
+
+Times mean: 0.006216 std: 0.000870
+nll test: 11.395166
+
+20
+Times mean: 0.002300 std: 0.001100
+nll test: 22.679848
+
+Times mean: 0.003706 std: 0.001419
+nll test: 21.944762
+
+Times mean: 0.003900 std: 0.000831
+nll test: 21.717611
+
+Times mean: 0.005709 std: 0.001342
+nll test: 21.693713
+
+Times mean: 0.006151 std: 0.001265
+nll test: 21.662939
+

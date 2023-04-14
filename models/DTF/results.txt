@@ -1,0 +1,25 @@
+---0
+10
+nll test: 11.706850
+nll test: 11.239160
+nll test: 11.127629
+nll test: 11.101214
+nll test: 11.101016
+nll test: 11.101749
+nll test: 11.101560
+nll test: 11.102490
+nll test: 11.102646
+nll test: 11.103234
+Times mean: 0.001300 std: 0.000458n
+20
+nll test: 23.251683
+nll test: 21.979881
+nll test: 21.460419
+nll test: 21.313562
+nll test: 21.262162
+nll test: 21.236770
+nll test: 21.234702
+nll test: 21.234539
+nll test: 21.234832
+nll test: 21.234510
+Times mean: 0.001700 std: 0.000640n

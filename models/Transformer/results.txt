@@ -1,0 +1,2 @@
+Times mean: 0.034420 std: 0.002687
+nll test: 10.819294
