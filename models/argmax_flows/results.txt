@@ -1,0 +1,610 @@
+---0
+10
+Times mean: 0.056611 std: 0.002392
+nll test: 11.342786
+
+Times mean: 0.055415 std: 0.000797
+nll test: 11.182575
+
+Times mean: 0.056013 std: 0.001162
+nll test: 11.112289
+
+Times mean: 0.055215 std: 0.001738
+nll test: 11.106231
+
+Times mean: 0.055415 std: 0.001679
+nll test: 11.067846
+
+Times mean: 0.055514 std: 0.001002
+nll test: 11.065167
+
+Times mean: 0.056511 std: 0.001671
+nll test: 11.036962
+
+Times mean: 0.056212 std: 0.002895
+nll test: 10.997859
+
+Times mean: 0.055614 std: 0.001465
+nll test: 11.036045
+
+Times mean: 0.055016 std: 0.001074
+nll test: 10.984769
+
+Times mean: 0.055116 std: 0.001184
+nll test: 10.999669
+
+Times mean: 0.065381 std: 0.015973
+nll test: 11.004971
+
+Times mean: 0.055514 std: 0.000897
+nll test: 10.938162
+
+Times mean: 0.055215 std: 0.000661
+nll test: 10.970721
+
+Times mean: 0.055614 std: 0.001162
+nll test: 10.989343
+
+Times mean: 0.055315 std: 0.001427
+nll test: 10.939029
+
+Times mean: 0.056112 std: 0.001096
+nll test: 10.941738
+
+Times mean: 0.055614 std: 0.001073
+nll test: 10.930691
+
+Times mean: 0.055714 std: 0.000698
+nll test: 10.954044
+
+Times mean: 0.055714 std: 0.000698
+nll test: 10.963903
+
+Times mean: 0.054817 std: 0.000892
+nll test: 10.948973
+
+Times mean: 0.054817 std: 0.000455
+nll test: 10.952262
+
+Times mean: 0.054617 std: 0.001162
+nll test: 10.949634
+
+Times mean: 0.056212 std: 0.002490
+nll test: 10.914507
+
+Times mean: 0.054717 std: 0.000698
+nll test: 10.942116
+
+20
+Times mean: 0.055813 std: 0.000891
+nll test: 21.720350
+
+Times mean: 0.055813 std: 0.001337
+nll test: 21.543227
+
+Times mean: 0.056312 std: 0.000919
+nll test: 21.355642
+
+Times mean: 0.056710 std: 0.001132
+nll test: 21.334107
+
+Times mean: 0.056611 std: 0.000977
+nll test: 21.237844
+
+Times mean: 0.056013 std: 0.001322
+nll test: 21.306763
+
+Times mean: 0.056511 std: 0.001413
+nll test: 21.191685
+
+Times mean: 0.056411 std: 0.001016
+nll test: 21.110331
+
+Times mean: 0.056910 std: 0.001132
+nll test: 21.137857
+
+Times mean: 0.057209 std: 0.002100
+nll test: 21.102255
+
+Times mean: 0.057109 std: 0.001184
+nll test: 21.150815
+
+Times mean: 0.056910 std: 0.001132
+nll test: 21.091570
+
+Times mean: 0.058106 std: 0.003810
+nll test: 21.117265
+
+Times mean: 0.056611 std: 0.001395
+nll test: 21.124870
+
+Times mean: 0.056810 std: 0.002273
+nll test: 21.112902
+
+Times mean: 0.057707 std: 0.003768
+nll test: 21.029873
+
+Times mean: 0.056710 std: 0.001216
+nll test: 21.045726
+
+Times mean: 0.057209 std: 0.002052
+nll test: 21.038556
+
+Times mean: 0.056212 std: 0.001557
+nll test: 21.030542
+
+Times mean: 0.056212 std: 0.001619
+nll test: 21.017978
+
+Times mean: 0.056013 std: 0.001245
+nll test: 21.035634
+
+Times mean: 0.055415 std: 0.000488
+nll test: 21.031237
+
+Times mean: 0.056112 std: 0.001183
+nll test: 20.992045
+
+Times mean: 0.055813 std: 0.000891
+nll test: 21.005247
+
+Times mean: 0.055614 std: 0.000598
+nll test: 21.033322
+
+50
+Times mean: 0.060597 std: 0.000746
+nll test: 51.943369
+
+Times mean: 0.061295 std: 0.000669
+nll test: 51.926778
+
+Times mean: 0.060597 std: 0.000976
+nll test: 51.668035
+
+Times mean: 0.061594 std: 0.001074
+nll test: 51.569604
+
+Times mean: 0.060298 std: 0.000498
+nll test: 51.414637
+
+Times mean: 0.061395 std: 0.001016
+nll test: 51.442835
+
+Times mean: 0.060797 std: 0.000772
+nll test: 51.401967
+
+Times mean: 0.061594 std: 0.001322
+nll test: 51.381706
+
+Times mean: 0.060697 std: 0.000940
+nll test: 51.401327
+
+Times mean: 0.163254 std: 0.001880
+nll test: 51.346780
+
+Times mean: 0.167443 std: 0.003570
+nll test: 51.337052
+
+Times mean: 0.168636 std: 0.004104
+nll test: 51.291947
+
+Times mean: 0.169334 std: 0.010699
+nll test: 51.327366
+
+Times mean: 0.174218 std: 0.009495
+nll test: 51.301303
+
+Times mean: 0.167639 std: 0.006143
+nll test: 51.280725
+
+Times mean: 0.167141 std: 0.006746
+nll test: 51.266409
+
+Times mean: 0.167141 std: 0.009113
+nll test: 51.255022
+
+Times mean: 0.164749 std: 0.005947
+nll test: 51.275411
+
+Times mean: 0.162556 std: 0.002835
+nll test: 51.294790
+
+Times mean: 0.163154 std: 0.001786
+nll test: 51.300605
+
+Times mean: 0.163753 std: 0.002997
+nll test: 51.302640
+
+Times mean: 0.164351 std: 0.007304
+nll test: 51.279327
+
+Times mean: 0.162557 std: 0.003166
+nll test: 51.288681
+
+Times mean: 0.164051 std: 0.003516
+nll test: 51.288913
+
+Times mean: 0.164849 std: 0.004639
+nll test: 51.290543
+
+80
+Times mean: 0.175713 std: 0.003454
+nll test: 82.583767
+
+Times mean: 0.174517 std: 0.004377
+nll test: 82.233257
+
+Times mean: 0.175214 std: 0.001322
+nll test: 83.040150
+
+Times mean: 0.174317 std: 0.001132
+nll test: 82.236954
+
+Times mean: 0.172723 std: 0.001841
+nll test: 82.032342
+
+Times mean: 0.173520 std: 0.003102
+nll test: 82.173838
+
+Times mean: 0.175511 std: 0.002007
+nll test: 81.873801
+
+Times mean: 0.178503 std: 0.006119
+nll test: 83.454365
+
+Times mean: 0.176809 std: 0.003916
+nll test: 81.841201
+
+Times mean: 0.184284 std: 0.004467
+nll test: 82.133157
+
+Times mean: 0.179600 std: 0.002881
+nll test: 82.122880
+
+Times mean: 0.180098 std: 0.004182
+nll test: 81.851903
+
+Times mean: 0.176809 std: 0.004458
+nll test: 81.795750
+
+Times mean: 0.181991 std: 0.011616
+nll test: 82.001172
+
+Times mean: 0.178902 std: 0.003815
+nll test: 81.929934
+
+Times mean: 0.180200 std: 0.005436
+nll test: 81.874014
+
+Times mean: 0.187872 std: 0.005642
+nll test: 81.789350
+
+Times mean: 0.178404 std: 0.004523
+nll test: 81.801580
+
+Times mean: 0.177507 std: 0.004599
+nll test: 81.833440
+
+Times mean: 0.189766 std: 0.017027
+nll test: 81.723721
+
+Times mean: 0.179699 std: 0.008539
+nll test: 81.780928
+
+Times mean: 0.172723 std: 0.006813
+nll test: 81.738878
+
+Times mean: 0.192357 std: 0.012182
+nll test: 81.724349
+
+Times mean: 0.167839 std: 0.002919
+nll test: 81.727947
+
+Times mean: 0.165547 std: 0.002687
+nll test: 81.693683
+
+---0.5
+10
+Times mean: 0.141428 std: 0.003741
+nll test: 12.457212
+
+Times mean: 0.139832 std: 0.003060
+nll test: 12.513800
+
+Times mean: 0.143819 std: 0.002399
+nll test: 12.459847
+
+Times mean: 0.142421 std: 0.003690
+nll test: 12.374317
+
+Times mean: 0.140331 std: 0.003267
+nll test: 12.433617
+
+Times mean: 0.139733 std: 0.004671
+nll test: 12.426967
+
+Times mean: 0.141527 std: 0.002137
+nll test: 12.409042
+
+Times mean: 0.139932 std: 0.004281
+nll test: 12.436535
+
+Times mean: 0.141826 std: 0.004909
+nll test: 12.419930
+
+Times mean: 0.139733 std: 0.003808
+nll test: 12.418595
+
+Times mean: 0.149992 std: 0.008439
+nll test: 12.412590
+
+Times mean: 0.148005 std: 0.010777
+nll test: 12.420496
+
+Times mean: 0.161059 std: 0.010114
+nll test: 12.447198
+
+Times mean: 0.149201 std: 0.007406
+nll test: 12.452156
+
+Times mean: 0.144417 std: 0.013180
+nll test: 12.519914
+
+Times mean: 0.146311 std: 0.006267
+nll test: 12.613918
+
+Times mean: 0.145314 std: 0.004607
+nll test: 12.715019
+
+Times mean: 0.149201 std: 0.011364
+nll test: 12.759483
+
+Times mean: 0.148803 std: 0.021886
+nll test: 12.814030
+
+Times mean: 0.150397 std: 0.009800
+nll test: 12.864956
+
+Times mean: 0.153786 std: 0.018437
+nll test: 13.080792
+
+Times mean: 0.137042 std: 0.034107
+nll test: 13.004013
+
+Times mean: 0.147507 std: 0.005349
+nll test: 13.062834
+
+Times mean: 0.151095 std: 0.006523
+nll test: 13.116876
+
+Times mean: 0.146909 std: 0.005240
+nll test: 13.107138
+
+20
+Times mean: 0.151992 std: 0.008623
+nll test: 24.901335
+
+Times mean: 0.149600 std: 0.010198
+nll test: 24.829268
+
+Times mean: 0.150497 std: 0.008075
+nll test: 24.845130
+
+Times mean: 0.145713 std: 0.005552
+nll test: 24.792776
+
+Times mean: 0.148304 std: 0.006153
+nll test: 24.817748
+
+Times mean: 0.144816 std: 0.006491
+nll test: 24.839757
+
+Times mean: 0.150597 std: 0.005674
+nll test: 24.845995
+
+Times mean: 0.152490 std: 0.005812
+nll test: 24.826823
+
+Times mean: 0.149201 std: 0.005141
+nll test: 24.812640
+
+Times mean: 0.151992 std: 0.009879
+nll test: 24.800185
+
+Times mean: 0.147507 std: 0.009323
+nll test: 24.783161
+
+Times mean: 0.152490 std: 0.008491
+nll test: 24.794917
+
+Times mean: 0.152291 std: 0.015964
+nll test: 24.781894
+
+Times mean: 0.134152 std: 0.050493
+nll test: 24.829186
+
+Times mean: 0.148307 std: 0.008461
+nll test: 24.826178
+
+Times mean: 0.151394 std: 0.004597
+nll test: 24.816190
+
+Times mean: 0.153985 std: 0.011127
+nll test: 24.848132
+
+Times mean: 0.155178 std: 0.011409
+nll test: 24.889108
+
+Times mean: 0.146012 std: 0.004417
+nll test: 24.929730
+
+Times mean: 0.144218 std: 0.016009
+nll test: 24.975828
+
+Times mean: 0.153985 std: 0.005934
+nll test: 25.059946
+
+Times mean: 0.142623 std: 0.020384
+nll test: 25.135082
+
+Times mean: 0.153487 std: 0.013350
+nll test: 25.243203
+
+Times mean: 0.147806 std: 0.011944
+nll test: 25.424665
+
+Times mean: 0.159866 std: 0.011811
+nll test: 25.516662
+
+50
+Times mean: 0.159765 std: 0.006014
+nll test: 61.968018
+
+Times mean: 0.170131 std: 0.010491
+nll test: 61.912093
+
+Times mean: 0.159268 std: 0.004377
+nll test: 61.839826
+
+Times mean: 0.164151 std: 0.008079
+nll test: 61.847595
+
+Times mean: 0.161360 std: 0.003740
+nll test: 61.820345
+
+Times mean: 0.162856 std: 0.006177
+nll test: 61.833773
+
+Times mean: 0.163653 std: 0.008246
+nll test: 61.844203
+
+Times mean: 0.161962 std: 0.008527
+nll test: 61.790715
+
+Times mean: 0.163353 std: 0.007711
+nll test: 61.833302
+
+Times mean: 0.165945 std: 0.004943
+nll test: 61.803169
+
+Times mean: 0.166145 std: 0.004390
+nll test: 61.820141
+
+Times mean: 0.172527 std: 0.015541
+nll test: 61.807408
+
+Times mean: 0.198437 std: 0.007828
+nll test: 61.793661
+
+Times mean: 0.192756 std: 0.010058
+nll test: 61.786115
+
+Times mean: 0.190364 std: 0.006730
+nll test: 61.754924
+
+Times mean: 0.188769 std: 0.006614
+nll test: 61.776709
+
+Times mean: 0.185480 std: 0.009626
+nll test: 61.751788
+
+Times mean: 0.194251 std: 0.013387
+nll test: 61.784406
+
+Times mean: 0.190563 std: 0.013664
+nll test: 61.752119
+
+Times mean: 0.188370 std: 0.006581
+nll test: 61.776329
+
+Times mean: 0.184383 std: 0.007630
+nll test: 61.752090
+
+Times mean: 0.176215 std: 0.005346
+nll test: 61.767954
+
+Times mean: 0.180995 std: 0.014320
+nll test: 61.770845
+
+Times mean: 0.174218 std: 0.006785
+nll test: 61.779266
+
+Times mean: 0.171530 std: 0.010982
+nll test: 61.790179
+
+80
+Times mean: 0.186080 std: 0.003243
+nll test: 98.789571
+
+Times mean: 0.187772 std: 0.005258
+nll test: 98.725916
+
+Times mean: 0.182390 std: 0.004882
+nll test: 98.768819
+
+Times mean: 0.190762 std: 0.004615
+nll test: 98.689314
+
+Times mean: 0.193653 std: 0.011797
+nll test: 98.657780
+
+Times mean: 0.187872 std: 0.009686
+nll test: 98.649729
+
+Times mean: 0.187772 std: 0.008353
+nll test: 98.655971
+
+Times mean: 0.178503 std: 0.003578
+nll test: 98.606965
+
+Times mean: 0.185081 std: 0.009977
+nll test: 98.647249
+
+Times mean: 0.180197 std: 0.008686
+nll test: 98.610675
+
+Times mean: 0.182589 std: 0.002592
+nll test: 98.604902
+
+Times mean: 0.179600 std: 0.004649
+nll test: 98.611514
+
+Times mean: 0.182390 std: 0.009539
+nll test: 98.594282
+
+Times mean: 0.181402 std: 0.003718
+nll test: 98.614239
+
+Times mean: 0.183487 std: 0.004952
+nll test: 98.592582
+
+Times mean: 0.180895 std: 0.003896
+nll test: 98.610100
+
+Times mean: 0.179500 std: 0.003820
+nll test: 98.601582
+
+Times mean: 0.179400 std: 0.006095
+nll test: 98.661017
+
+Times mean: 0.178005 std: 0.002003
+nll test: 98.628797
+
+Times mean: 0.180198 std: 0.007198
+nll test: 98.611903
+
+Times mean: 0.179300 std: 0.003437
+nll test: 98.633945
+
+Times mean: 0.067674 std: 0.003661
+nll test: 98.568807
+
+Times mean: 0.067773 std: 0.002359
+nll test: 98.559304
+
+Times mean: 0.066478 std: 0.000897
+nll test: 98.585079
+
+Times mean: 0.066179 std: 0.001110
+nll test: 98.579404
+
