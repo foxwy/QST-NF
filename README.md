@@ -105,7 +105,7 @@ The experimental results of NLL tested and sampling times are saved in [`models/
 
 ## **Acknowledgments**
 
-This code is standing on the shoulders of giants. We want to thank the following contributors that our code is based on: [POVM_GENMODEL](https://github.com/carrasqu/POVM_GENMODEL), [QST-NNGMs-FNN](https://github.com/foxwy/QST-NNGMs-FNN), [argmax_flows](https://github.com/didriknielsen/argmax_flows), [Discrete-Denoising-Flows](https://github.com/alex-lindt/Discrete-Denoising-Flows), [Discrete-Tree-Flows](https://github.com/inouye-lab/Discrete-Tree-Flows).
+This code is standing on the shoulders of giants. We want to thank the following contributors that our code is based on: [POVM_GENMODEL](https://github.com/carrasqu/POVM_GENMODEL), [AQT](https://github.com/KimGroup/AQT), [QST-NNGMs-FNN](https://github.com/foxwy/QST-NNGMs-FNN), [argmax_flows](https://github.com/didriknielsen/argmax_flows), [Discrete-Denoising-Flows](https://github.com/alex-lindt/Discrete-Denoising-Flows), [Discrete-Tree-Flows](https://github.com/inouye-lab/Discrete-Tree-Flows).
 
 ## **License**
 
