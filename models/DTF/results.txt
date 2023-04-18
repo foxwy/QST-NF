@@ -1,106 +1,33 @@
 ---0
 10
-nll test: 11.706850
-nll test: 11.239160
-nll test: 11.127629
-nll test: 11.101214
 nll test: 11.101016
-nll test: 11.101749
-nll test: 11.101560
-nll test: 11.102490
-nll test: 11.102646
-nll test: 11.103234
 Times mean: 0.000797 std: 0.000598
 
 20
-nll test: 23.251683
-nll test: 21.979881
-nll test: 21.460419
-nll test: 21.313562
-nll test: 21.262162
-nll test: 21.236770
-nll test: 21.234702
-nll test: 21.234539
-nll test: 21.234832
 nll test: 21.234510
 Times mean: 0.001395 std: 0.000488
 
 50
-nll test: 57.721691
-nll test: 54.140481
-nll test: 52.502467
-nll test: 51.874808
-nll test: 51.690897
-nll test: 51.630789
 nll test: 51.632776
-nll test: 51.634511
-nll test: 51.635729
-nll test: 51.636694
 Times mean: 0.002890 std: 0.000537
 
 80
-nll test: 92.195391
-nll test: 86.194032
-nll test: 83.500791
-nll test: 82.512473
-nll test: 82.137024
 nll test: 82.046978
-nll test: 82.085652
-nll test: 82.087469
-nll test: 82.087519
-nll test: 82.088389
 Times mean: 0.004385 std: 0.000488
 
 ---0.5
 10
-nll test: 12.406199
-nll test: 12.406028
 nll test: 12.411401
-nll test: 12.415211
-nll test: 12.419808
-nll test: 12.424347
-nll test: 12.428750
-nll test: 12.434047
-nll test: 12.436298
-nll test: 12.439914
 Times mean: 0.000698 std: 0.000457
 
 20
-nll test: 24.828842
-nll test: 24.824278
-nll test: 24.826832
 nll test: 24.831092
-nll test: 24.831917
-nll test: 24.834490
-nll test: 24.838256
-nll test: 24.840860
-nll test: 24.844163
-nll test: 24.847338
 Times mean: 0.001196 std: 0.000399
 
 50
-nll test: 62.081760
-nll test: 62.058762
-nll test: 62.050995
-nll test: 62.043971
 nll test: 62.043088
-nll test: 62.043439
-nll test: 62.047122
-nll test: 62.050372
-nll test: 62.053339
-nll test: 62.055941
 Times mean: 0.002791 std: 0.000399
 
 80
-nll test: 99.315922
-nll test: 99.277243
-nll test: 99.252914
-nll test: 99.233357
-nll test: 99.221168
 nll test: 99.216357
-nll test: 99.217055
-nll test: 99.218596
-nll test: 99.220414
-nll test: 99.223578
 Times mean: 0.004485 std: 0.000499
-

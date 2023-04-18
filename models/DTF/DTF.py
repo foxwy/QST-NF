@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 # @Author: yong
 # @Date:   2023-03-25 22:49:51
-# @Last Modified by:   WY
-# @Last Modified time: 2023-04-14 13:26:43
+# @Last Modified by:   yong
+# @Last Modified time: 2023-04-18 22:52:50
 
 import logging
 import math
@@ -32,7 +32,7 @@ parser = ArgumentParser()
 # taskset -c 3 python test_dtf.py --exp=15 --num_TSPs=COPH --max_depth=3 --kfolds=1 --split_type=single_random
 parser.add_argument("--exp", type=str, default='qdata', help="exp name COPH, COPM, COPW, 8Gaussian, MNIST, SNP, Mushroom")
 
-parser.add_argument("--num_TSPs", type=int, default=10, help="Maximum number of TSPs")
+parser.add_argument("--num_TSPs", type=int, default=6, help="Maximum number of TSPs")
 parser.add_argument("--max_depth", type=int, default=3, help="Maximum Depth of a TSP")
 parser.add_argument("--min_depth", type=int, default=1, help="min Depth of a TSP")
 
@@ -59,10 +59,10 @@ if __name__ == '__main__':
     povm = 'Pauli_4'
 
     with open('results.txt', 'w') as f:
-        for N_p in [0]:
+        for N_p in [0, 0.5]:
             f.write("---%s\n" % N_p)
             f.flush()
-            for N_q in [10, 20]:
+            for N_q in [10, 20, 50, 80]:
                 f.write("%s\n" % N_q)
                 f.flush()
 

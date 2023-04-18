@@ -82,17 +82,17 @@ class BaseExperiment(object):
     def save_metrics(self):
 
         # Save metrics
-        with open(os.path.join(self.log_path,'metrics_train.pickle'), 'wb') as f:
+        with open(os.path.join(self.log_path, 'metrics_train.pickle'), 'wb') as f:
             pickle.dump(self.train_metrics, f)
-        with open(os.path.join(self.log_path,'metrics_eval.pickle'), 'wb') as f:
+        with open(os.path.join(self.log_path, 'metrics_eval.pickle'), 'wb') as f:
             pickle.dump(self.eval_metrics, f)
 
         # Save metrics table
         metric_table = get_metric_table(self.train_metrics, epochs=list(range(1, self.current_epoch+2)))
-        with open(os.path.join(self.log_path,'metrics_train.txt'), "w") as f:
+        with open(os.path.join(self.log_path, 'metrics_train.txt'), "w") as f:
             f.write(str(metric_table))
         metric_table = get_metric_table(self.eval_metrics, epochs=[e+1 for e in self.eval_epochs])
-        with open(os.path.join(self.log_path,'metrics_eval.txt'), "w") as f:
+        with open(os.path.join(self.log_path, 'metrics_eval.txt'), "w") as f:
             f.write(str(metric_table))
 
     def checkpoint_save(self):

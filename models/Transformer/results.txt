@@ -15,7 +15,6 @@ nll test: 51.266944
 Times mean: 0.234915 std: 0.008122
 nll test: 81.614812
 
-
 ---0.5
 10
 Times mean: 0.028604 std: 0.002092

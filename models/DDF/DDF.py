@@ -1,12 +1,10 @@
 import os
-import datetime
 import numpy as np
 
 import torch
 from argparse import ArgumentParser
 
 from training import Training
-from data.qdata import get_GHZ_data
 
 filepath = os.path.abspath(os.path.join(os.getcwd(), '../..'))
 
@@ -54,7 +52,7 @@ if __name__ == "__main__":
 
                 args.input_size = [N_q, 1, 1]
                 args.num_classes = K
-                args.num_building_blocks = 10
+                args.num_building_blocks = 5
                 args.n_hidden_nn = 64
                 args.batch_size = 500
                 args.lr = 0.001

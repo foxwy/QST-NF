@@ -60,7 +60,7 @@ if __name__ == '__main__':
         for N_p in [0, 0.5]:
             f.write("---%s\n" % N_p)
             f.flush()
-            for N_q in [10, 20, 50, 80, 100]:
+            for N_q in [10, 20, 50, 80]:
                 f.write("%s\n" % N_q)
                 f.flush()
 
