@@ -69,12 +69,13 @@ class Fid(Mea_basis):
         calculated as decomposed, the details can be found in ``Ultrafast quantum 
         state tomography with feed-forward neural networks``.
         """
-        rho = rho / torch.trace(rho)
         Fq = torch.tensor(0)
         if self.ty_state == 'pure':
+            rho = rho / torch.norm(rho)
             tmp = torch.matmul(self.rho_star.T.conj(), rho)[0, 0]
             Fq = (tmp * tmp.conj()).real
         else:
+            rho = rho / torch.trace(rho)
             if self.pure_flag == 1:
                 Fq = torch.matmul(torch.matmul(self.rho_p.T.conj(), rho), self.rho_p)[0, 0].real
             else:
